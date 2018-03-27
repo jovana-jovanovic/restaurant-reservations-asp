@@ -1,0 +1,12 @@
+c:\users\jovanaa\documents\visual studio 2013\Projects\asp_restoran\asp_restoran\bin\asp_restoran.dll.config
+c:\users\jovanaa\documents\visual studio 2013\Projects\asp_restoran\asp_restoran\bin\asp_restoran.dll
+c:\users\jovanaa\documents\visual studio 2013\Projects\asp_restoran\asp_restoran\bin\asp_restoran.pdb
+c:\users\jovanaa\documents\visual studio 2013\Projects\asp_restoran\asp_restoran\obj\Debug\asp_restoran.dll
+c:\users\jovanaa\documents\visual studio 2013\Projects\asp_restoran\asp_restoran\obj\Debug\asp_restoran.pdb
+C:\Users\Jovanaa\Documents\Visual Studio 2013\Projects\asp_restoran\asp_restoran\obj\Debug\asp_restoran.csprojResolveAssemblyReference.cache
+E:\moji_sajtovi\asp_restoran\asp_restoran\bin\asp_restoran.dll.config
+E:\moji_sajtovi\asp_restoran\asp_restoran\bin\asp_restoran.dll
+E:\moji_sajtovi\asp_restoran\asp_restoran\bin\asp_restoran.pdb
+E:\moji_sajtovi\asp_restoran\asp_restoran\obj\Debug\asp_restoran.csprojResolveAssemblyReference.cache
+E:\moji_sajtovi\asp_restoran\asp_restoran\obj\Debug\asp_restoran.dll
+E:\moji_sajtovi\asp_restoran\asp_restoran\obj\Debug\asp_restoran.pdb

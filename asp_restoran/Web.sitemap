@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="~/Index.aspx" title="Pocetna"  description="">
+    <siteMapNode url="~/Kontakt.aspx" title="Kontakt"  description="" />
+    <siteMapNode url="~/Galerija.aspx" title="Galerija"  description="" />
+    <siteMapNode url="~/Autor.aspx" title="Autor"  description="" />
+    <siteMapNode url="" title="Administracija"  description="" roles="Administrator" >
+    <siteMapNode url="~/Administrator/administrator.aspx" title="Admin"  description="" roles="Administrator" />
+      </siteMapNode>
+    <siteMapNode url="" title="Korisnik"  description="" roles="Korisnik" >
+     <siteMapNode url="~/Korisnik/rezervacija.aspx" title="Korisnik"  description="" roles="Korisnik" />
+</siteMapNode>
+  </siteMapNode>
+</siteMap>
